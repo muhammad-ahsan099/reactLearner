@@ -1,0 +1,12 @@
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 30px;
+}
+.list ul{
+    display: flex;
+}
+.list ul li {
+    list-style-type: none;
+}
